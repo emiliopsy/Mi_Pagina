@@ -1,0 +1,13 @@
+aside {
+    background-image: linear-gradient(-236.0346105627433deg, rgba(144, 24, 204, 1) 12.180608299780388%, rgba(56, 139, 65, 1) 69.01740368777453%, rgba(56, 140, 65, 1) 69.01740368777453%);
+    width: 15vw;
+    max-width: 200px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+//para panatallas mas grandes
+@media (min-width: 992px) {}
